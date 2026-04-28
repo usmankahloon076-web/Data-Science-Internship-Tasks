@@ -1,6 +1,15 @@
 # Data-Science-Internship-Tasks
 
 This repository contains the five data science projects covering exploratory data analysis (EDA), regression, and classification.
+## 📊 Project Summary Table
+
+| Task | Project Title | Model / Approach | Key Result / Accuracy |
+| :--- | :--- | :--- | :--- |
+| **Task 1** | Iris Dataset Exploration | EDA & Visualization (Seaborn) | Identified Petals as key features |
+| **Task 2** | Credit Risk Prediction | Logistic Regression | **79% Accuracy** |
+| **Task 3** | Customer Churn Prediction | Random Forest Classifier | **86% Accuracy** |
+| **Task 4** | Insurance Claim Amount | Linear Regression | Identified Smoking as primary cost driver |
+| **Task 5** | Personal Loan Acceptance | Random Forest / Classification | Optimized via `pdays` and macro factors |
 
 ## Task 1: Iris Dataset Analysis
 * **Objective:** Explore and visualize how flower measurements (sepals/petals) vary across species.
